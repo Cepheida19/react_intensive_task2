@@ -1,0 +1,30 @@
+.container {
+    background-color: rgba(159, 121, 238, 0.5);
+    margin-top: -22px;
+  }
+.res{
+    color: #363636;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.res h2{
+   padding-top: 70px;
+   font-size: 32px;
+}
+.items {
+    border-top: 1px solid #363636;
+    border-bottom: 1px solid #363636;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 600px;
+    height: 850px;
+    margin: auto;
+    text-align: left;
+  }
+.items div {
+    padding-top: 10px;
+}
+.items span {
+    font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.item {
+    margin: 10px;
+  }
+  .item input {
+    border-radius: 15px;
+    border: 2px solid #fff;
+    height: 30px;
+    width: 300px;
+    margin-top: 6px;
+    background-color: #fff;
+    padding-left: 10px;
+    color: #363636;
+  }
+  .item label {
+    margin-left: 15px;
+    color: #363636;
+  }
+  input::-webkit-input-placeholder {
+    color: #838791;
+    background-color:#fff;
+  }

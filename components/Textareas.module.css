@@ -1,0 +1,23 @@
+.item textarea {
+    resize: none;
+    overflow: hidden;
+    border-radius: 20px;
+    margin-top: 6px;
+    background-color: #fff;
+    border-radius: 15px;
+    border: 2px solid #fff;
+    padding-left: 10px;
+    color: #363636;
+    padding-top: 7px;
+}
+.item {
+    margin: 10px;
+  }
+  .item label {
+    margin-left: 15px;
+    color: #363636;
+  }
+  textarea::-webkit-input-placeholder {
+    color: #838791;
+    background-color:#fff;
+  }
